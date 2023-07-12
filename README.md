@@ -45,8 +45,8 @@
 <br>
 <br>
 <ul dir="auto">
-<li><strong>Фронтенд</strong>: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass</li>
-<li><strong>Бекенд</strong>: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs</li>
+<li><strong>Фронтенд</strong>: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), Apollo, Client HTML5, CSS3, Sass</li>
+<li><strong>Бекенд</strong>: Node.js, Express, Sessions/Tokens, CORS, WebSockets, GraphQL</li>
 <li><strong>Базы данных</strong>: PostgreSQL, Sequelize ORM</li>
 <li><strong>A также</strong>: Jest, Docker, REST</li>
 </ul>
